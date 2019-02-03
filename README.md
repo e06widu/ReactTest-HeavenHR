@@ -19,7 +19,7 @@ open http://localhost:3000
 - Please deliver something that works, non working project is an automatic disqualification
 
 ## My implementation
- - Added seperate component for handle pagination
+ - Added separate component for handle pagination
  - Added Gender selection component 
  - Added AddFriend Form which contains AddFriendInput and Gender Component
  - Form has validated for having friend name mandatory
