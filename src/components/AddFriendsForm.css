@@ -1,0 +1,18 @@
+.add-friend-form {
+  background-color: white;
+  border-bottom: 1px solid #e3e3e3;
+}
+
+.btn-primary {
+  background-color: #5c75b0;
+  border-color: #e3e3e3;
+}
+
+.btn-primary:hover {
+  background-color: #5c75b0;
+}
+
+.name-error {
+  font-size: 12px;
+  color: red;
+}
