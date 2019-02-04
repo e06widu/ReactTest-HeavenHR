@@ -24,6 +24,12 @@ open http://localhost:3000
  - Added AddFriend Form which contains AddFriendInput and Gender Component
  - Form has validated for having friend name mandatory
  - Has written tests for all the components and redux functions
+ 
+ 
+### Run test
+```
+npm run test
+```
 
 ## You tube vedio URL
 https://youtu.be/Z-cjiz4IUGs
